@@ -20,7 +20,7 @@ Zápis do literatury o starověku
 - první literární památku -> <code>epos o gilgamešovy</code>
     - řeší otázku o nesmrtelnosti
 
-### Chummurapiho zákoník
+### Chammurapiho zákoník
 - nejznámější zákonodárná památka
 - babylonská literatura
 - vydáno králem Chammurapim (1800 př. n. l.)
@@ -56,13 +56,13 @@ Zápis do literatury o starověku
 - Těžká historie
 - Diaspora (rozptýlení židů mimo Izrél)
 - Antisemitismus (Nenávist židů)
-- Šoá (Holocaust vúči židům)
-- Nejposátnější místo je zeď nářků
+- Šoá (Holocaust vůči židům)
+- Nejposvátnější místo je zeď nářků
 - Symboly:
     - Kipa (čepička)
     - Davidova hvězda
     - Synagoga (Židovský kostel)
     - Šavat (Sobota)
 - Zvyky:
-    - Mužská ořízka
+    - Mužská obřízka
     - Košer (Jídlo)
