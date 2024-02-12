@@ -1,7 +1,7 @@
 ---
 module: [kind=cjl] cjl_starovek_identifier
 ---
-# Stačověk
+# Starověk
 Zápis do literatury o starověku
 
 - počátky 4./3. tisíciletí př. n. l.
@@ -57,7 +57,7 @@ Zápis do literatury o starověku
 - Diaspora (rozptýlení židů mimo Izrél)
 - Antisemitismus (Nenávist židů)
 - Šoá (Holocaust vúči židům)
-- Nejposátnější místo je zeď nářků
+- Nejposvátnější místo je zeď nářků
 - Symboly:
     - Kipa (čepička)
     - Davidova hvězda
